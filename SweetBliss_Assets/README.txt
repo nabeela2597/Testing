@@ -1,0 +1,1 @@
+Place these files in your project's images folder. These are simple SVG placeholders you can replace with real photos.
